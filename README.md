@@ -27,3 +27,6 @@ Price and availability display.
 List of selected products with quantity, price, and subtotal.
 Option to modify quantities or remove items.
 Proceed to Checkout button (simulated).
+
+![image](https://github.com/harisaigithub/flipkart_clone/assets/114827365/ca67a4bf-eeb4-44c6-9ed3-1f65729c4dce)
+
